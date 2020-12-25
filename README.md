@@ -3,23 +3,32 @@
 ### A CRUD based application for CORE Lab.
 
 
-### What you can do with this extension?
+### What you can do with this application?
 
-1. Display cookies for given **url**
-2. Delete all cookies present in the browser
-3. Set cookies for any domain.
+1. Apply CRUD Operations on Users.
+2. Apply CRUD Operations on Books.
+3. Use the Django Administrative tool to monitor the Database.
+4. Use the interative UI provided in the application to Edit/Delete the record.
 
-> It also displays the total number of cookies present in your browser at the top.
 
-[![Live Demo, not Lie](https://forthebadge.com/images/badges/its-not-a-lie-if-you-believe-it.svg)](https://github.com/vinitshahdeo/Cookie-Manager/)
+> Check the screenshots of UI [here]()
 
-> Check the screenshots of UI [here](https://github.com/vinitshahdeo/Cookie-Manager/tree/master/assets)
-
-![Screenshot](https://github.com/vinitshahdeo/Cookie-Manager/blob/master/assets/Screenshot%202019-01-17%20at%2010.57.41%20PM.png?raw=true)
+### Sample screenshots
+![Screenshot](assets/Screenshot%202020-12-25%20at%204.32.39%20PM.png)
+![Screenshot](assets/Screenshot%202020-12-25%20at%204.32.53%20PM.png)
+![Screenshot](assets/Screenshot%202020-12-25%20at%204.31.46%20PM.png)
 
 ### Installation
 
-
+1. Clone this Repository.
+2. Make sure Python & Django are installed. 
+3. Run code 
+```
+pip install Django
+```
+```
+python manage.py runserver
+```
 
 
 
@@ -28,7 +37,7 @@
 
 Feel free to ask me, if you need any help navigating through this application.
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/Vinit_Shahdeo?style=social)](https://twitter.com/Vinit_Shahdeo)
+[![Twitter Follow](https://img.shields.io/twitter/follow/darshanjain01?style=social)](https://twitter.com/darshanjain01)
 
 
 
